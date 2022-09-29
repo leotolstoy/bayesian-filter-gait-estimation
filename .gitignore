@@ -1,0 +1,34 @@
+*.pyc
+*.pdf
+*.o
+*.so
+CLibrary/build
+*.csv
+*.mat
+Gait Model/*.mat
+Run Data/*/*.csv
+Run Data/*/*.png
+Run Data/*/*/*.png
+Run Data/*/*/*/*.png
+*.eps
+
+
+## Core latex/pdflatex auxiliary files:
+*.aux
+*.lof
+*.log
+*.lot
+*.fls
+*.out
+*.toc
+
+## Bibliography auxiliary files (bibtex/biblatex/biber):
+*.bbl
+*.bcf
+*.blg
+*-blx.aux
+*-blx.bib
+*.run.xml
+*.png
+*.png
+*.png
